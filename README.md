@@ -12,7 +12,7 @@ Repositório com pequenos projetos e experimentos em JavaScript, criado para pra
 <div align="center">
   
 ## Tecnologias
-JavaScript, HTML, CSS, React, Node.js, Git, GitHub
+JavaScript, HTML, CSS, React, Node.js
 </div>
 
 ---
